@@ -45,31 +45,31 @@ Currently working at Mercari as a Data Engineer, focusing on turning analytical 
 - 2026/03/30  
   [積み上げた暗黙知をAIに載せ、仕組みで届ける（データエンジニア @hira）ーYurinoの「先輩、ちょっといいですか？」vol.6](https://careers.mercari.com/mercan/articles/59303/)
 
-- 2025/09/29 12:00-13:00  
+- 2025/09/29
   [AI開発のNext Stage コンテキストエンジニアリングを学ぶ](https://findy-code.io/events/wETeV_jZQrQzW)  
   Talk: 「非エンジニアにとってのコンテキストエンジニアリング」
 
-- 2024/12/03 19:15-  
+- 2024/12/03 
   [プロダクとーく #1 - 技術者に求められる「ビジネス理解」とは何であるべきなのか](https://cyberagent.connpass.com/event/336368/)
 
 - 2021/12/09  
   [Lookerユーザー会#7 RefinementsとExtendsを活用したExplore構築 ~JOINを跨いだフィールドをすっきり実装しよう〜](https://www.slideshare.net/slideshow/looker7-refinementsextendsexplore-join-looker-user-meetup-7/250842409)
 
-- 2021/11/16 13:00  
+- 2021/11/16 
   [データを追求した先にあるユーザーさんの心を紐解く――ミラティブ分析チームの探究力とは](https://note.com/mirrativ/n/n3a1e16632728)
 
 ## Articles
 
-- 2026/02/05 12:01  
+- 2026/02/05
   [「使ってもらう」「作りっぱなし」のAI活用を卒業するためにーーwith AI時代の「組織能力向上型アナリスト」としての半年間を振り返って](https://note.com/mercari_data/n/n08a50309b8b7)
 
-- 2025/11/12 11:54  
+- 2025/11/12
   [進化したNotion AIでコンテキストを集める、メルカリの仕様書駆動データ分析の第一歩](https://note.com/mercari_data/n/n0952804c464b)
 
-- 2025/09/02 11:51  
+- 2025/09/02
   [メルカリの「仕様書駆動データ分析」が拓く、コンテキストエンジニアリングの最前線](https://note.com/mercari_data/n/n2828a0098baf)
 
-- 2025/05/22 08:47  
+- 2025/05/22 
   [VS Code+GitHub CopilotやCursorでBigQueryのAIコーディングをしよう 〜練習問題リポジトリを添えて〜](https://note.com/mercari_data/n/nfca7f28f1094)
 
 ## Community / Event Support
