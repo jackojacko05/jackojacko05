@@ -72,6 +72,12 @@ Currently working at Mercari as a Data Engineer, focusing on turning analytical 
 - 2025/05/22 
   [VS Code+GitHub CopilotやCursorでBigQueryのAIコーディングをしよう 〜練習問題リポジトリを添えて〜](https://note.com/mercari_data/n/nfca7f28f1094)
 
+### Private blog
+
+- https://note.com/jackojacko_
+
+- https://zenn.dev/jackojacko05
+
 ## Community / Event Support
 
 - [connpass profile](https://connpass.com/user/Hirayam/)
