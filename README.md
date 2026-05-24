@@ -74,9 +74,9 @@ Currently working at Mercari as a Data Engineer, focusing on turning analytical 
 
 ### Private blog
 
-- https://note.com/jackojacko_
+- [note](https://note.com/jackojacko_)
 
-- https://zenn.dev/jackojacko05
+- [zenn](https://zenn.dev/jackojacko05)
 
 ## Community / Event Support
 
