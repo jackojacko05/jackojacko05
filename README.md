@@ -1,0 +1,81 @@
+# jackojacko_ / hira
+
+Currently working at Mercari as a Data Engineer, focusing on turning analytical knowledge and workflows into scalable systems.
+
+## About
+
+- Data Engineer @ Mercari
+- Interested in:
+  - Product Analytics
+  - Data Engineering
+  - AI / LLM Enablement
+  - Context Engineering
+  - Analytics Workflow Design
+  - BigQuery / Looker / dbt / Notion AI / GitHub Copilot / Cursor
+
+## Career
+
+### Mercari, Inc. | 2023/03 - Present
+
+- **Data Engineer** | 2026/01 -
+- **Data Analyst** | 2023/03 - 2025/12
+  - AI / LLM Enablement | 2025/07 - 2025/12
+  - Logistics / Business Development | 2024/01 - 2025/06
+  - Mercari Shops | 2023/03 - 2025/06
+
+### Mirrativ, Inc. | 2020 - 2022
+
+- Data Analyst
+
+### COLOPL, Inc. | 2018 - 2019
+
+- Virtual YouTuber Director
+
+## Education
+
+- M.A. in Management, Graduate School of Economics, The University of Tokyo | 2018
+- B.A. in Business Administration, Faculty of Economics, The University of Tokyo | 2016
+
+## Talks / Interviews / Slides
+
+- 2026/05/15  
+  [AI Agentを支えるデータエンジニアの仕事 - メルカリ＆ZOZOに聞く、役割の変化と今後の挑戦](https://findy-code.io/events/KMaucp7DNkz2_?fr=event_archive_20260515)  
+  Talk: 「AI時代にデータアナリストがデータエンジニアに異動して」
+
+- 2026/03/30  
+  [積み上げた暗黙知をAIに載せ、仕組みで届ける（データエンジニア @hira）ーYurinoの「先輩、ちょっといいですか？」vol.6](https://careers.mercari.com/mercan/articles/59303/)
+
+- 2025/09/29 12:00-13:00  
+  [AI開発のNext Stage コンテキストエンジニアリングを学ぶ](https://findy-code.io/events/wETeV_jZQrQzW)  
+  Talk: 「非エンジニアにとってのコンテキストエンジニアリング」
+
+- 2024/12/03 19:15-  
+  [プロダクとーく #1 - 技術者に求められる「ビジネス理解」とは何であるべきなのか](https://cyberagent.connpass.com/event/336368/)
+
+- 2021/12/09  
+  [Lookerユーザー会#7 RefinementsとExtendsを活用したExplore構築 ~JOINを跨いだフィールドをすっきり実装しよう〜](https://www.slideshare.net/slideshow/looker7-refinementsextendsexplore-join-looker-user-meetup-7/250842409)
+
+- 2021/11/16 13:00  
+  [データを追求した先にあるユーザーさんの心を紐解く――ミラティブ分析チームの探究力とは](https://note.com/mirrativ/n/n3a1e16632728)
+
+## Articles
+
+- 2026/02/05 12:01  
+  [「使ってもらう」「作りっぱなし」のAI活用を卒業するためにーーwith AI時代の「組織能力向上型アナリスト」としての半年間を振り返って](https://note.com/mercari_data/n/n08a50309b8b7)
+
+- 2025/11/12 11:54  
+  [進化したNotion AIでコンテキストを集める、メルカリの仕様書駆動データ分析の第一歩](https://note.com/mercari_data/n/n0952804c464b)
+
+- 2025/09/02 11:51  
+  [メルカリの「仕様書駆動データ分析」が拓く、コンテキストエンジニアリングの最前線](https://note.com/mercari_data/n/n2828a0098baf)
+
+- 2025/05/22 08:47  
+  [VS Code+GitHub CopilotやCursorでBigQueryのAIコーディングをしよう 〜練習問題リポジトリを添えて〜](https://note.com/mercari_data/n/nfca7f28f1094)
+
+## Community / Event Support
+
+- [connpass profile](https://connpass.com/user/Hirayam/)
+
+## Keywords
+
+`Data Engineering` `Product Analytics` `AI Enablement` `LLM` `Context Engineering` `BigQuery` `Looker` `dbt` `Notion AI` `GitHub Copilot` `Cursor`
