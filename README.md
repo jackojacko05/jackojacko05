@@ -37,17 +37,21 @@ Currently working at Mercari as a Data Engineer, focusing on turning analytical 
 - B.A. in Business Administration, Faculty of Economics, The University of Tokyo | 2016
 
 ## Talks / Interviews / Slides
+- 2026/06/26
+  [STORES Data Lounge「事業と伴走するデータ活用組織](https://hey.connpass.com/event/390162/) <br>
+  Talk: [「「使われるデータ基盤」を目指してデータアナリストとワークショップをやった話」](https://speakerdeck.com/jackojacko_/shi-warerudetaji-pan-womu-zhi-sitedetaanarisutotowakusiyotupuwoyatutahua)
 
 - 2026/05/15  
   [AI Agentを支えるデータエンジニアの仕事 - メルカリ＆ZOZOに聞く、役割の変化と今後の挑戦](https://findy-code.io/events/KMaucp7DNkz2_?fr=event_archive_20260515)  
-  Talk: 「AI時代にデータアナリストがデータエンジニアに異動して」
+  Talk: [「AI時代にデータアナリストがデータエンジニアに異動して」](https://speakerdeck.com/jackojacko_/aishi-dai-ni-detaanarisutogadetaenzinianiyi-dong-site)
+  - 書き起こし: [個人への支援に感じた壁。メルカリのデータアナリストが、データエンジニアに異動した理由](https://findy-code.io/media/articles/event-mercari-jackojacko-260515)
 
 - 2026/03/30  
   [積み上げた暗黙知をAIに載せ、仕組みで届ける（データエンジニア @hira）ーYurinoの「先輩、ちょっといいですか？」vol.6](https://careers.mercari.com/mercan/articles/59303/)
 
 - 2025/09/29
   [AI開発のNext Stage コンテキストエンジニアリングを学ぶ](https://findy-code.io/events/wETeV_jZQrQzW)  
-  Talk: 「非エンジニアにとってのコンテキストエンジニアリング」
+  Talk: [「非エンジニアにとってのコンテキストエンジニアリング」](https://speakerdeck.com/findy_eventslides/fei-enzinianoanatamodekiru-and-mouyatuteru-kontekisutoenziniaringu)
 
 - 2024/12/03 
   [プロダクとーく #1 - 技術者に求められる「ビジネス理解」とは何であるべきなのか](https://cyberagent.connpass.com/event/336368/)
