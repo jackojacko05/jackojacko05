@@ -37,7 +37,7 @@ Currently working at Mercari as a Data Engineer, focusing on turning analytical 
 - B.A. in Business Administration, Faculty of Economics, The University of Tokyo | 2016
 
 ## Talks / Interviews / Slides
-- 2026/06/26
+- 2026/05/26
   [STORES Data Lounge「事業と伴走するデータ活用組織](https://hey.connpass.com/event/390162/) <br>
   Talk: [「「使われるデータ基盤」を目指してデータアナリストとワークショップをやった話」](https://speakerdeck.com/jackojacko_/shi-warerudetaji-pan-womu-zhi-sitedetaanarisutotowakusiyotupuwoyatutahua)
 
@@ -81,10 +81,6 @@ Currently working at Mercari as a Data Engineer, focusing on turning analytical 
 - [note](https://note.com/jackojacko_)
 
 - [zenn](https://zenn.dev/jackojacko05)
-
-## Community / Event Support
-
-- [connpass profile](https://connpass.com/user/Hirayam/)
 
 ## Keywords
 
